@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Esum-bean_main" target="1.8" />
+      <module name="Esum-bean_test" target="1.8" />
+      <module name="Esum-core_main" target="1.8" />
+      <module name="Esum-core_test" target="1.8" />
+      <module name="esum-dic_main" target="1.8" />
+      <module name="esum-dic_test" target="1.8" />
+      <module name="esum.core_main" target="1.8" />
+      <module name="esum.core_test" target="1.8" />
+      <module name="Esum_main" target="1.8" />
+      <module name="Esum_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

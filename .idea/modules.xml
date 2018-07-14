@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum-bean.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum-bean.iml" group="Esum-bean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum-bean/Esum-bean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum-bean/Esum-bean_main.iml" group="Esum-bean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum-bean/Esum-bean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum-bean/Esum-bean_test.iml" group="Esum-bean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum-core/Esum-core.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum-core/Esum-core.iml" group="esum-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum_main.iml" group="Esum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esum_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Esum_test.iml" group="Esum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esum-dic.iml" filepath="$PROJECT_DIR$/.idea/modules/esum-dic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esum-dic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/esum-dic_main.iml" group="esum-dic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esum-dic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/esum-dic_test.iml" group="esum-dic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esum.core.iml" filepath="$PROJECT_DIR$/.idea/modules/esum.core.iml" group="esum.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esum.core/esum.core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/esum.core/esum.core_main.iml" group="esum.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/esum.core/esum.core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/esum.core/esum.core_test.iml" group="esum.core" />
+    </modules>
+  </component>
+</project>
